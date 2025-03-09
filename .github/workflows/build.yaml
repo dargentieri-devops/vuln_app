@@ -1,0 +1,27 @@
+name: Build and Push Docker Image
+
+on:
+  push:
+    branches:
+      - main  
+  workflow_dispatch:
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build with Maven
+        run: mvn clean package -DskipTests
+
+      - name: Set execute permissions for build script
+        run: chmod +x build-image.sh
+
+      - name: Run build script
+        env:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_TOKEN: ${{ secrets.DOCKER_TOKEN }}
+        run: ./build-image.sh "$DOCKER_USERNAME" "$DOCKER_TOKEN"
