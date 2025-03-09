@@ -9,3 +9,5 @@
 L'applicazione è progettata per essere un ambiente di test sicuro, dove gli sviluppatori e i team di sicurezza possono eseguire analisi approfondite e affrontare vulnerabilità comuni prima che il codice venga rilasciato in produzione. Attraverso l'integrazione con strumenti di scansione automatica, VulnApp aiuta a migliorare la sicurezza delle applicazioni, riducendo il rischio di esposizione a vulnerabilità note.
 
 **VulnApp** è il punto di partenza ideale per qualsiasi progetto che voglia garantire una sicurezza robusta e ridurre i rischi associati a vulnerabilità nel codice e nelle dipendenze.
+
+
