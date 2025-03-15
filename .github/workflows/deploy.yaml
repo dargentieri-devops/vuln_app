@@ -1,0 +1,24 @@
+name: Deploy service 🚀 
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set execute permissions for deploy script
+        run: chmod +x deploy.sh
+        
+      - name: Run deploy script
+        env:
+          APP_SECRETS: ${{ secrets.APP_SECRETS }}
+          DOCKER_USERNAME: ${{ vars.DOCKER_USERNAME }}
+          RENDER_SERVICE_ID: ${{ vars.RENDER_SERVICE_ID }}
+          RENDER_SERVICE_KEY: ${{ secrets.RENDER_SERVICE_KEY }}
+          RENDER_TOKEN: ${{ secrets.RENDER_TOKEN }}
+          RENDER_OWNER_ID: ${{ secrets.RENDER_OWNER_ID }}
+        run: ./deploy.sh
