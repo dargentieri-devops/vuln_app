@@ -1,3 +1,0 @@
-FROM openjdk:17-jdk-slim
-COPY target/${name}-${version}.jar /vulnapp.jar
-ENTRYPOINT ["java", "-jar", "/${name}.jar"]

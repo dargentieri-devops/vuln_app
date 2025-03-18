@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   fill="none"
+   version="1.1"
+   id="svg84"
+   sodipodi:docname="devops.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview86"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.125"
+     inkscape:cx="728"
+     inkscape:cy="-396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g161172"
+     showguides="false"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs82">
+    <rect
+       x="83.87428"
+       y="437.26458"
+       width="381.3484"
+       height="246.03122"
+       id="rect55774" />
+    <filter
+       id="filter0_d_1_2"
+       x="407.76"
+       y="334.42"
+       width="329.142"
+       height="418.294"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood28" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix30" />
+      <feOffset
+         dy="3.06748"
+         id="feOffset32" />
+      <feGaussianBlur
+         stdDeviation="2.0327947"
+         id="feGaussianBlur34" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite36" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix38" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_1_2"
+         id="feBlend40" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_1_2"
+         result="shape"
+         id="feBlend42" />
+    </filter>
+    <filter
+       id="filter1_d_1_2"
+       x="789.111"
+       y="334.42"
+       width="326.564"
+       height="418.294"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood45" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix47" />
+      <feOffset
+         dy="3.06748"
+         id="feOffset49" />
+      <feGaussianBlur
+         stdDeviation="10.7362"
+         id="feGaussianBlur51" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite53" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix55" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_1_2"
+         id="feBlend57" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_1_2"
+         result="shape"
+         id="feBlend59" />
+    </filter>
+    <filter
+       id="filter2_d_1_2"
+       x="1167.88"
+       y="334.42"
+       width="343.558"
+       height="418.294"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood62" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix64" />
+      <feOffset
+         dy="3.06748"
+         id="feOffset66" />
+      <feGaussianBlur
+         stdDeviation="10.7362"
+         id="feGaussianBlur68" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite70" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix72" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_1_2"
+         id="feBlend74" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_1_2"
+         result="shape"
+         id="feBlend76" />
+    </filter>
+    <clipPath
+       id="clip0_1_2">
+      <rect
+         width="1920"
+         height="1080"
+         fill="white"
+         id="rect79" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <filter
+       id="filter0_d_1_2-8"
+       x="407.76001"
+       y="334.42001"
+       width="329.142"
+       height="418.29401"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood28-0" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix30-2" />
+      <feOffset
+         dy="3.06748"
+         id="feOffset32-6" />
+      <feGaussianBlur
+         stdDeviation="2.0327947"
+         id="feGaussianBlur34-6" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite36-0" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix38-6" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_1_2"
+         id="feBlend40-1" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_1_2"
+         result="shape"
+         id="feBlend42-4" />
+    </filter>
+    <filter
+       id="filter0_d_1_2-8-8"
+       x="407.76001"
+       y="334.42001"
+       width="329.142"
+       height="418.29401"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood28-0-3" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix30-2-2" />
+      <feOffset
+         dy="3.06748"
+         id="feOffset32-6-5" />
+      <feGaussianBlur
+         stdDeviation="2.0327947"
+         id="feGaussianBlur34-6-9" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite36-0-9" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"
+         id="feColorMatrix38-6-0" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_1_2"
+         id="feBlend40-1-7" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_1_2"
+         result="shape"
+         id="feBlend42-4-2" />
+    </filter>
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-6" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-6-4" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-6-4-5" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-6-4-5-4" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-6-4-5-4-8" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-4" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006-1">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008-3"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006-1-0">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008-3-6"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0-8" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006-2">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008-31"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006-1-3">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008-3-1"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72006-1-0-9">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffbb3a;stroke-width:1.70503;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect72008-3-6-3"
+         width="403.46539"
+         height="89.977577"
+         x="1701.0597"
+         y="1943.0431"
+         transform="matrix(0.89407425,-0.44791879,0.57461945,0.81842073,0,0)" />
+    </clipPath>
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0-5" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0-8-3" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0-7" />
+    <rect
+       x="83.874283"
+       y="437.26459"
+       width="381.34839"
+       height="246.03122"
+       id="rect55774-4-0-7-3" />
+  </defs>
+  <g
+     id="g161172"
+     transform="translate(-32.349578,42)">
+    <text
+       xml:space="preserve"
+       id="text55772-5-1"
+       style="font-size:18.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;white-space:pre;shape-inside:url(#rect55774-6-4);fill:#005366;fill-opacity:1"
+       x="0"
+       y="0"
+       transform="matrix(0.93723292,0,0,0.93723292,1340.509,-35.49795)" />
+    <g
+       transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)"
+       id="g1039-4" />
+    <g
+       id="g27745"
+       transform="translate(1.6907422e-5,-38.000041)">
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="19px"
+         id="text933-6"
+         x="856.45398"
+         y="176.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Ops</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="19px"
+         id="text935-6"
+         x="373.508"
+         y="176.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Dev</text>
+      <rect
+         x="336"
+         y="335.10327"
+         width="590"
+         height="26"
+         fill="#005366"
+         id="rect937-3"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 366.076,452.64837 c 25.134,-26.254 40.924,-63.218 40.924,-103.636 -19.334,-6.909 -19.334,-6.909 -19.334,-6.909 -19.334,6.909 -19.334,6.909 -19.334,6.909 0,57 -43.502,103.636 -96.671,103.636 -53.491,0 -96.993,-46.636 -96.993,-103.636 -38.668,0 -38.668,0 -38.668,0 0,79.8 60.902,145.091 135.661,145.091 116.005,0 116.005,0 116.005,0 6.445,-20.727 6.445,-20.727 6.445,-20.727 -6.445,-20.728 -6.445,-20.728 -6.445,-20.728 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#6b7e54"
+         fill-rule="evenodd"
+         id="path939-6"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 504.859,494.10337 c -116.859,0 -116.859,0 -116.859,0 6.474,-20.769 6.474,-20.769 6.474,-20.769 -6.474,-20.769 -6.474,-20.769 -6.474,-20.769 116.859,0 116.859,0 116.859,0 25.896,0 50.174,-10.731 68.626,-30.462 20.07,7.615 20.07,7.615 20.07,7.615 7.445,21.808 7.445,21.808 7.445,21.808 -25.897,27.346 -59.886,42.577 -96.141,42.577 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#416b5b"
+         fill-rule="evenodd"
+         id="path941-4"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 572.951,274.10337 c -18.354,-19.731 -42.505,-30.462 -68.266,-30.462 -116.245,0 -116.245,0 -116.245,0 -6.44,-21.461 -6.44,-21.461 -6.44,-21.461 6.44,-20.077 6.44,-20.077 6.44,-20.077 116.245,0 116.245,0 116.245,0 36.065,0 69.876,15.231 95.315,42.577 -20.609,6.923 -20.609,6.923 -20.609,6.923 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#e6b240"
+         fill-rule="evenodd"
+         id="path943-4"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 366.076,243.73637 c 21.59,0 21.59,0 21.59,0 -6.445,-21.511 -6.445,-21.511 -6.445,-21.511 6.445,-20.122 6.445,-20.122 6.445,-20.122 -116.005,0 -116.005,0 -116.005,0 -74.759,0 -135.661,65.571 -135.661,146.061 18.045,6.939 18.045,6.939 18.045,6.939 20.623,-6.939 20.623,-6.939 20.623,-6.939 0,-57.592 43.502,-104.428 96.993,-104.428 53.169,0 96.671,46.836 96.671,104.428 19.334,-6.939 19.334,-6.939 19.334,-6.939 19.334,6.939 19.334,6.939 19.334,6.939 0,-40.939 -15.79,-78.061 -40.924,-104.428 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#b59d48"
+         fill-rule="evenodd"
+         id="path945-5"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="M 896.075,452.64837 C 870.848,426.39437 855,389.43037 855,349.01237 c 19.405,-6.909 19.405,-6.909 19.405,-6.909 19.406,6.909 19.406,6.909 19.406,6.909 0,57 43.662,103.636 97.351,103.636 53.368,0 97.028,-46.636 97.028,-103.636 38.81,0 38.81,0 38.81,0 0,79.8 -61.13,145.091 -135.838,145.091 -116.757,0 -116.757,0 -116.757,0 -6.468,-20.727 -6.468,-20.727 -6.468,-20.727 6.468,-20.728 6.468,-20.728 6.468,-20.728 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#236060"
+         fill-rule="evenodd"
+         id="path947-0"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 758.465,494.10337 c 116.535,0 116.535,0 116.535,0 -6.474,-20.769 -6.474,-20.769 -6.474,-20.769 6.474,-20.769 6.474,-20.769 6.474,-20.769 -116.535,0 -116.535,0 -116.535,0 -26.22,0 -50.498,-10.731 -68.95,-30.462 -20.07,7.615 -20.07,7.615 -20.07,7.615 -7.445,21.808 -7.445,21.808 -7.445,21.808 25.897,27.346 59.886,42.577 96.465,42.577 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#e6b240"
+         fill-rule="evenodd"
+         id="path949-3"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 689.173,274.10337 c 18.439,-19.731 42.7,-30.462 68.902,-30.462 116.455,0 116.455,0 116.455,0 6.47,-21.461 6.47,-21.461 6.47,-21.461 -6.47,-20.077 -6.47,-20.077 -6.47,-20.077 -116.455,0 -116.455,0 -116.455,0 -36.554,0 -70.52,15.231 -96.075,42.577 20.703,6.923 20.703,6.923 20.703,6.923 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#416b5b"
+         fill-rule="evenodd"
+         id="path951-3"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 896.075,243.73637 c -21.67,0 -21.67,0 -21.67,0 6.469,-21.511 6.469,-21.511 6.469,-21.511 -6.469,-20.122 -6.469,-20.122 -6.469,-20.122 116.757,0 116.757,0 116.757,0 74.708,0 135.838,65.571 135.838,146.061 -18.11,6.939 -18.11,6.939 -18.11,6.939 -20.7,-6.939 -20.7,-6.939 -20.7,-6.939 0,-57.592 -43.66,-104.428 -97.028,-104.428 -53.689,0 -97.351,46.836 -97.351,104.428 -19.406,-6.939 -19.406,-6.939 -19.406,-6.939 -19.405,6.939 -19.405,6.939 -19.405,6.939 0,-40.939 15.848,-78.061 41.075,-104.428 z"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#6b7e54"
+         fill-rule="evenodd"
+         id="path953-1"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 631,295.89637 c 42.856,105.414 42.856,105.414 42.856,105.414 4.188,7.653 9.344,14.959 15.144,21.222 -19.978,7.653 -19.978,7.653 -19.978,7.653 -7.411,21.918 -7.411,21.918 -7.411,21.918 -13.533,-14.612 -23.844,-32.007 -30.611,-50.793 -42.856,-105.414 -42.856,-105.414 -42.856,-105.414 -4.188,-7.654 -9.344,-14.959 -15.144,-21.222 6.444,-22.613 6.444,-22.613 6.444,-22.613 20.623,-6.958 20.623,-6.958 20.623,-6.958 13.855,14.612 24.166,32.007 30.933,50.793"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#ffba3a"
+         fill-rule="evenodd"
+         id="path955-6"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 600.5,369.60337 v 0"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path957-2"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 600,369.10337 v 0"
+         stroke="#000000"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path959-2"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 667.5,313.60337 v 0"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path961-0"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 667,313.10337 v 0"
+         stroke="#000000"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path963-3"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 631.5,401.60337 v 0"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path965-6"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 631,401.10337 v 0"
+         stroke="#000000"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path967-0"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 631,295.89637 c -42.856,105.414 -42.856,105.414 -42.856,105.414 -4.188,7.653 -9.022,14.959 -15.144,21.222 19.978,7.653 19.978,7.653 19.978,7.653 7.411,21.918 7.411,21.918 7.411,21.918 13.533,-14.612 23.844,-32.007 30.611,-50.793 42.856,-105.414 42.856,-105.414 42.856,-105.414 4.188,-7.654 9.344,-14.959 15.144,-21.222 -6.444,-22.613 -6.444,-22.613 -6.444,-22.613 -20.623,-6.958 -20.623,-6.958 -20.623,-6.958 -13.855,14.612 -24.166,32.007 -30.933,50.793"
+         stroke="#ffffff"
+         stroke-width="4"
+         stroke-miterlimit="8"
+         fill="#ffba3a"
+         fill-rule="evenodd"
+         id="path969-4"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text971-9"
+         x="243.386"
+         y="229.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Create</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text973-6"
+         x="248.35001"
+         y="479.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Verify</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text975-3"
+         x="466.81799"
+         y="229.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Plan</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text977-8"
+         x="403.93201"
+         y="477.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Preproduction</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text979-4"
+         x="742.414"
+         y="229.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Configure</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text981-0"
+         x="946.26703"
+         y="229.10347"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Detect</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text983-0"
+         x="754.55499"
+         y="479.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Predict</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text985-1"
+         x="935.22998"
+         y="479.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Respond</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="matrix(0.56104344,-1.2399971,1.2399971,0.56104344,132.8684,49.99851)"
+         id="text987-0"
+         x="-89.817039"
+         y="723.57001">Release</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="matrix(0.6805079,1.1786737,-1.1786737,0.6805079,132.8684,49.99851)"
+         id="text989-5"
+         x="527.58325"
+         y="-375.59372">Adapt</text>
+      <path
+         d="m 412.547,295.96437 c 12.314,-14.049 12.314,-14.049 12.314,-14.049 15.527,15.875 15.527,15.875 15.527,15.875 -13.093,13.697 -13.093,13.697 -13.093,13.697 5.796,7.75 9.699,16.98 12,26.887 18.414,0.373 18.414,0.373 18.414,0.373 0.574,22.198 0.574,22.198 0.574,22.198 -18.414,-0.373 -18.414,-0.373 -18.414,-0.373 -1.634,9.531 -4.825,18.361 -9.815,25.912 13.482,14.019 13.482,14.019 13.482,14.019 -14.207,15.528 -14.207,15.528 -14.207,15.528 -13.482,-14.019 -13.482,-14.019 -13.482,-14.019 -7.279,5.118 -15.289,8.506 -24.565,10.389 0.667,19.439 0.667,19.439 0.667,19.439 -21.038,-0.624 -21.038,-0.624 -21.038,-0.624 -0.666,-19.439 -0.666,-19.439 -0.666,-19.439 -8.894,-1.679 -17.696,-6.117 -24.895,-11.233 -13.093,13.698 -13.093,13.698 -13.093,13.698 -14.993,-16.101 -14.993,-16.101 -14.993,-16.101 12.559,-13.471 12.559,-13.471 12.559,-13.471 -5.261,-7.976 -9.699,-16.979 -11.466,-27.113 -18.414,-0.373 -18.414,-0.373 -18.414,-0.373 -1.108,-21.972 -1.108,-21.972 -1.108,-21.972 19.192,0.724 19.192,0.724 19.192,0.724 0.857,-9.882 4.047,-18.712 9.038,-26.263 -13.483,-14.018 -13.483,-14.018 -13.483,-14.018 14.207,-15.529 14.207,-15.529 14.207,-15.529 13.483,14.019 13.483,14.019 13.483,14.019 7.278,-5.118 15.822,-8.732 24.564,-10.388 -0.666,-19.439 -0.666,-19.439 -0.666,-19.439 21.037,0.623 21.037,0.623 21.037,0.623 0.667,19.439 0.667,19.439 0.667,19.439 9.428,1.453 18.229,5.891 25.673,11.584 z m -70.159,51.431 c 0.62,20.818 17.657,38.775 37.382,39.273 20.26,0.272 36.359,-16.736 35.495,-38.132 -0.621,-20.818 -17.657,-38.774 -37.917,-39.047 -20.26,-0.272 -35.825,16.511 -34.96,37.906 z m 49.275,6.363 c -2.611,7.224 -10.621,10.611 -17.623,7.452 -7.535,-2.933 -11.195,-11.586 -8.05,-19.036 2.61,-7.224 10.62,-10.612 17.622,-7.453 7.002,3.159 10.661,11.812 8.051,19.037 z"
+         fill="#005366"
+         fill-rule="evenodd"
+         id="path991-3"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 305,348.60337 c 0,-39.488 32.907,-71.5 73.5,-71.5 40.593,0 73.5,32.012 73.5,71.5 0,39.488 -32.907,71.5 -73.5,71.5 -40.593,0 -73.5,-32.012 -73.5,-71.5 z"
+         fill="#005366"
+         fill-rule="evenodd"
+         id="path993-2"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text995-3"
+         x="340.48901"
+         y="336.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Monitoring</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text997-3"
+         x="365.23499"
+         y="354.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">and</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text999-2"
+         x="345.73499"
+         y="371.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Analytics</text>
+      <path
+         d="m 912.357,295.96437 c 12.314,-14.049 12.314,-14.049 12.314,-14.049 15.527,15.875 15.527,15.875 15.527,15.875 -13.093,13.697 -13.093,13.697 -13.093,13.697 5.796,7.75 9.699,16.98 12,26.887 18.414,0.373 18.414,0.373 18.414,0.373 0.574,22.198 0.574,22.198 0.574,22.198 -18.414,-0.373 -18.414,-0.373 -18.414,-0.373 -1.634,9.531 -4.825,18.361 -9.815,25.912 13.482,14.019 13.482,14.019 13.482,14.019 -14.207,15.528 -14.207,15.528 -14.207,15.528 -13.482,-14.019 -13.482,-14.019 -13.482,-14.019 -7.279,5.118 -15.289,8.506 -24.565,10.389 0.667,19.439 0.667,19.439 0.667,19.439 -21.038,-0.624 -21.038,-0.624 -21.038,-0.624 -0.666,-19.439 -0.666,-19.439 -0.666,-19.439 -8.894,-1.679 -17.696,-6.117 -24.895,-11.233 -13.093,13.698 -13.093,13.698 -13.093,13.698 -14.993,-16.101 -14.993,-16.101 -14.993,-16.101 12.559,-13.471 12.559,-13.471 12.559,-13.471 -5.261,-7.976 -9.699,-16.979 -11.466,-27.113 -18.414,-0.373 -18.414,-0.373 -18.414,-0.373 -1.108,-21.972 -1.108,-21.972 -1.108,-21.972 19.192,0.724 19.192,0.724 19.192,0.724 0.856,-9.882 4.047,-18.712 9.038,-26.263 -13.483,-14.018 -13.483,-14.018 -13.483,-14.018 14.207,-15.529 14.207,-15.529 14.207,-15.529 13.483,14.019 13.483,14.019 13.483,14.019 7.278,-5.118 15.822,-8.732 24.564,-10.388 -0.667,-19.439 -0.667,-19.439 -0.667,-19.439 21.038,0.623 21.038,0.623 21.038,0.623 0.667,19.439 0.667,19.439 0.667,19.439 9.428,1.453 18.229,5.891 25.673,11.584 z m -70.159,51.431 c 0.62,20.818 17.656,38.775 37.382,39.273 20.26,0.272 36.359,-16.736 35.495,-38.132 -0.621,-20.818 -17.657,-38.774 -37.917,-39.047 -20.26,-0.272 -35.825,16.511 -34.96,37.906 z m 49.275,6.363 c -2.611,7.224 -10.621,10.611 -17.623,7.452 -7.535,-2.933 -11.195,-11.586 -8.05,-19.036 2.61,-7.224 10.62,-10.612 17.622,-7.453 7.002,3.159 10.661,11.812 8.051,19.037 z"
+         fill="#005366"
+         fill-rule="evenodd"
+         id="path1001-1"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <path
+         d="m 805,348.60337 c 0,-39.488 32.683,-71.5 73,-71.5 40.317,0 73,32.012 73,71.5 0,39.488 -32.683,71.5 -73,71.5 -40.317,0 -73,-32.012 -73,-71.5 z"
+         fill="#005366"
+         fill-rule="evenodd"
+         id="path1003-4"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text1005-2"
+         x="840.01398"
+         y="336.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Monitoring</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text1007-6"
+         x="864.76099"
+         y="354.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">and</text>
+      <text
+         fill="#ffffff"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="15px"
+         id="text1009-4"
+         x="845.26099"
+         y="371.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Analytics</text>
+      <path
+         d="m 1062.5642,544.57059 -866.4012,10e-5 v 1.33333 l 866.4012,-10e-5 z m -1.3342,7.33333 8,-6.66667 -8,-6.66667 z m -863.733,-13.33323 -8,6.66667 8,6.66666 z"
+         fill="#6f7878"
+         id="path1011-4"
+         style="fill:#005366;fill-opacity:1"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1013-8"
+         x="984.63"
+         y="339.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1015-7"
+         x="987.54999"
+         y="354.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Monitoring</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1017-9"
+         x="198.883"
+         y="339.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1019-2"
+         x="201.46899"
+         y="354.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Integration</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1021-3"
+         x="463.10501"
+         y="282.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1023-2"
+         x="457.60501"
+         y="297.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Improvement</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1025-3"
+         x="463.927"
+         y="393.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1027-6"
+         x="461.927"
+         y="408.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Deployment</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1029-6"
+         x="710.74799"
+         y="282.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1031-7"
+         x="704.24799"
+         y="297.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Configuration</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1033-3"
+         x="710.40601"
+         y="388.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1035-3"
+         x="718.99298"
+         y="403.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Learning</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         id="text1037-5"
+         x="562.48401"
+         y="510.10327"
+         transform="matrix(1.3610153,0,0,1.3610153,132.8684,49.99851)">Continuous Delivery</text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="889.15015"
+         y="779.88074"
+         id="text2954"><tspan
+           sodipodi:role="line"
+           id="tspan2952"
+           x="889.15015"
+           y="779.88074"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous Delivery</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="402.91171"
+         y="512.75232"
+         id="text2954-1"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3"
+           x="402.91171"
+           y="512.75232"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="402.91171"
+           y="544.20734"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393">Integration</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="758.40741"
+         y="433.802"
+         id="text2954-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3-3"
+           x="758.40741"
+           y="433.802"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="758.40741"
+           y="465.25699"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393-8">Improvement</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="1084.1899"
+         y="433.79587"
+         id="text2954-1-0-1"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3-3-32"
+           x="1084.1899"
+           y="433.79587"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="1084.1899"
+           y="465.25085"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393-8-7">Configuration</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="1084.1899"
+         y="580.88019"
+         id="text2954-1-0-1-3"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3-3-32-4"
+           x="1084.1899"
+           y="580.88019"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="1084.1899"
+           y="612.33521"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393-8-7-2">Learning</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="1452.7863"
+         y="518.75232"
+         id="text2954-1-0-1-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3-3-32-4-2"
+           x="1452.7863"
+           y="518.75232"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="1452.7863"
+           y="550.20734"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393-8-7-2-8">Monitoring</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:25.164px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1;stroke-width:0.629101"
+         x="758.40741"
+         y="580.88635"
+         id="text2954-1-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan2952-3-3-3"
+           x="758.40741"
+           y="580.88635"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101">Continuous </tspan><tspan
+           sodipodi:role="line"
+           x="758.40741"
+           y="612.34137"
+           style="fill:#005366;fill-opacity:1;stroke-width:0.629101"
+           id="tspan17393-8-1">Deployment</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1"
+         x="629.6792"
+         y="308.68988"
+         id="text10534"><tspan
+           sodipodi:role="line"
+           id="tspan10532"
+           x="629.6792"
+           y="308.68988">Dev</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#005366;fill-opacity:1"
+         x="1291.8105"
+         y="305.50629"
+         id="text10534-1"><tspan
+           sodipodi:role="line"
+           id="tspan10532-8"
+           x="1291.8105"
+           y="305.50629">Ops</tspan></text>
+    </g>
+  </g>
+</svg>
