@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>DevSecOps in pratica</title>
+		<link rel="shortcut icon" href="images/favicon.png" type="image/svg"/>
+		<link rel="icon" href="images/favicon.png" type="image/svg"/>
+
+		<meta name="description" content="DevSecOps in pratica - Dall’analisi del codice al rilascio sicuro">
+		<meta name="author" content="Domenico Argentieri">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/custom.css">
+		<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<a href="https://revealjs.com">
+					  <img src="images/gdg.png" alt="gdg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					</a>
+					<h3>DevSecOps in pratica</h3>
+					<p>
+					  <small>Dall’analisi del codice al rilascio sicuro</small><br>
+					  <small>
+						<a href="https://www.linkedin.com/company/gdg-vicenza"class="link" target="_blank">
+						Google Developer Group - Vicenza </a>
+					  </small>
+					</p>
+				  </section>
+
+				  <section>
+					<ol class="icon-list">
+					  <li><span class="material-icons">public</span>Contesto Attuale e Normativo</li>
+					  <li><span class="material-icons">account_tree</span>Dal Waterfall all'Agile</li>
+					  <li><span class="material-icons">code</span>DevOps</li>
+					  <li><span class="material-icons">security</span>DevSecOps</li>
+					  <li><span class="material-icons">build_circle</span>Esempio di CI/CD con Automazione della Sicurezza</li>
+					</ol>
+				  </section>
+
+				<section>
+					<section>
+						<h6>Contesto Attuale e Normativo</h6>
+					</section>
+					<section>
+						<a href="https://www.ilpost.it/2024/10/05/carmelo-miano-hacker-ministero-della-giustizia/"><img src="images/post.png"></a>
+					</section>
+					<section>
+						<small><a href="https://clusit.it/wp-content/uploads/download/Rapporto_Clusit_03-2025_web.pdf" class="link">Rapporto Clusit 2025</a></small>
+						<small><b>12.732 incidenti</b>, di cui l’80% con impatto critico o elevato nel biennio 2023-2024</small>
+						<p><img src="images/clusit1.png"></p>
+					</section>
+					<section>
+						<small><a href="https://clusit.it/wp-content/uploads/download/Rapporto_Clusit_03-2025_web.pdf" class="link">Rapporto Clusit 2025</a></small><br>
+						<small>Clusterizzazione degli incident</small>
+						<p><img src="images/clusit2.png"></p>
+					</section>
+					<section>
+						<small>Roadmap normativa EU per la cybersicurezza</small>
+						<p><img src="images/roadmap-eu-cybersecurity.png"></p>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h6>Dal Waterfall all'Agile</h6>
+					</section>
+					<section>
+						<small>Modello Waterfall</small>
+						<p><img src="images/waterfall.png"></p>
+					</section>
+					<section>
+						<small><a href="https://agilemanifesto.org/"class="link" target="_blank">Agile Manifesto </a></small>
+						<p><img src="images/agile_manifesto.png"></p>
+					</section>
+					<section>
+						<small>Framework Scrum</small>
+						<p><img src="images/scrum.png"></p>
+					</section>
+					<section>
+						<small>Scenario <b>AS IS</b> in molte organizzazioni</small>
+						<p><img src="images/security_team.png"></p>
+					</section>
+					<section>
+						<small>Scenario <b>AS IS</b> in molte organizzazioni</small>
+						<p><img src="images/no_security_team.png"></p>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h6>DevOps</h6>
+					</section>
+					<section>
+						<p><small>DevOps secondo <b>Gartner</b></small></p>
+						<p><img src="images/devops_gartner.png"></p>
+					</section>
+					<section>
+						<p><img src="images/toolchain_devops.png"></p>
+					</section>
+					<section>
+						<p><small>Vantaggi dell'adozione della metodologia DevOps</small></p>
+						<p><img src="images/benefici_devops.png"></p>
+					</section>
+					<section>
+						  <small>
+							<a href="https://www.linkedin.com/company/ladies-of-london-hacking-society"class="link" target="_blank">
+							Ladies Of London Hacking Society </a>
+						  </small>
+						  <small>
+							“Gli sviluppatori hanno fatto un lavoro fenomenale nello spazio DevOps, mentre la sicurezza non ha tenuto il passo con loro.
+							Non è fattibile che DevOps rallenti, quindi la sicurezza deve intensificare.
+							Questo richiede un cambiamento culturale nel modo in cui i team di distribuzione del software e i team di sicurezza lavorano insieme.”<br><br>
+							<b>Eliza-May Austin</b>
+						   </small>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h6>DevSecOps</h6>
+					</section>
+					<section>
+						<p><img src="images/pilastri_devsecops.png"></p>
+					</section>
+					<section>
+						<p><small>Toolchain <b>DevSecOps</b></small></p>
+						<p><img src="images/toolchain_devsecops.png"></p>
+					</section>
+				</section>
+				
+				<section>
+					<section>
+						<h6>Esempio di CI/CD con Automazione della Sicurezza</h6>
+					</section>
+					<section>
+						<p><small>Spring Initializr → <a href="https://start.spring.io/" class="link">Spring Initializr</a></small></p>
+						<p><img src="images/spring_initializr.png"></p>
+					</section>
+					<section>
+						<p><small>GitHub SCM → <a href="https://github.com/dargentieri-devops/vuln_app" class="link">Github SCM</a></small></p>
+						<p><img src="images/github_scm.png"></p>
+					</section>
+					<section>
+						<p><small>Neon → <a href="https://neon.tech/" class="link">Neon</a></small></p>
+						<p><img src="images/neon.png"></p>
+					</section>
+					<section>
+						<p><small>GitHub Actions → <a href="https://github.com/dargentieri-devops/vuln_app/actions" class="link">Github Actions</a></small></p>
+						<p><img src="images/github_actions.png"></p>
+					</section>
+					<section>
+						<p><small>Docker Hub → <a href="https://github.com/" class="link">Docker Hub</a></small></p>
+						<p><img src="images/docker_hub.png"></p>
+					</section>
+					<section>
+						<p><small>Render → <a href="https://render.com/" class="link">Render</a></small></p>
+						<p><img src="images/render.png"></p>
+					</section>
+					<section>
+						<p><small>GitHub Secrets → <a href="https://github.com/dargentieri-devops/vuln_app/settings/secrets/actions" class="link">GitHub Secrets</a></small></p>
+						<p><img src="images/github_secrets.png"></p>
+					</section>
+					<section>
+						<p><small>Codacy → <a href="https://www.codacy.com/" class="link">Codacy</a></small></p>
+						<p><img src="images/codacy.png"></p>
+					</section>
+					<section>
+						<p><small>Snyk → <a href="https://snyk.io/" class="link">Snyk</a></small></p>
+						<p><img src="images/snyk.png"></p>
+					</section>
+					<section>
+						<p><small>Overview architetturale</small></p>
+						<p><img src="images/architettura.png"></p>
+					</section>
+				</section>
+				<section>
+					<img src="images/gdg.png" alt="gdg" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+					<h3>Grazie per l'attenzione</h3>
+				  </section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
+			});
+
+		</script>
+
+	</body>
+</html>
