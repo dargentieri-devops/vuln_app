@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>it.devops</groupId>
 	<artifactId>vulnapp</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>vulnapp</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
